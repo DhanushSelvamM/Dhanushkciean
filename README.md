@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=arduino)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=spring-boot)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
