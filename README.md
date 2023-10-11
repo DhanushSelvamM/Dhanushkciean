@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 ## My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhanushkciean&show_icons=true&theme=dark)
+## Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhanushkciean" alt="deepakkumaravelu" /></a> </p>
